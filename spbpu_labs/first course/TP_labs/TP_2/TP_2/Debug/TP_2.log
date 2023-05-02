@@ -1,0 +1,6 @@
+﻿  DataStruct.cpp
+  Guards.cpp
+  KeysIO.cpp
+C:\Users\админ\source\repos\TP_2\TP_2\KeysIO.cpp(29,19): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  Создание кода...
+  TP_2.vcxproj -> C:\Users\админ\source\repos\TP_2\Debug\TP_2.exe

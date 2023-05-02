@@ -1,0 +1,22 @@
+Dictionary:
+apple - яблоко 
+cry - кричать плакать 
+go - идти 
+run - бегать 
+tried - испытанный проверенный 
+Dictionary:
+apple - яблоко 
+cry - кричать плакать 
+go - идти 
+lemon - лимон 
+milk - молоко 
+run - бегать 
+tried - испытанный проверенный 
+Dictionary:
+apple - яблоко 
+cry - кричать плакать 
+go - идти 
+lemon - лимон 
+milk - молоко 
+run - бегать 
+tried - испытанный проверенный 
