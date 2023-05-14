@@ -1,2 +1,2 @@
 # spbpu_labs
-Here are some of my works in C++ for the university program:)
+Here are some of my works in C++, Python for the university program:)
