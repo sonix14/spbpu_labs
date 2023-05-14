@@ -8,7 +8,7 @@ from PIL import Image
 
 from imageai.Detection import ObjectDetection
 
-API_TOKEN = '6232705788:AAG0hxSjC928Fq0gJXGGJu5fE7Qy4do6pJM'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
