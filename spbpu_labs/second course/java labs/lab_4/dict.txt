@@ -1,0 +1,6 @@
+apple | apfel
+apple pie | apfelkuchen
+mouse | die maus
+let | erlauben
+let it | lassen Sie es
+let it go | lassen Sie es gehen
